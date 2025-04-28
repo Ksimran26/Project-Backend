@@ -1,0 +1,12 @@
+{
+  "name": "projectbackend",
+  "version": "1.0.0",
+  "description": "This is the project for learning the structure of the official backend",
+  "license": "ISC",
+  "author": "Simranpreet",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
